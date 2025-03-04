@@ -40,5 +40,5 @@ public class TC002_LoginTest extends BaseClass{
 		}
 		logger.info("****** Finished TC_002_LoginTest *****");
 	}
-	
+	//this is to test merge
 }
