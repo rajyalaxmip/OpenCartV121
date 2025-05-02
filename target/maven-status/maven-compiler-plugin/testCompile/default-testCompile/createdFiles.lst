@@ -1,3 +1,4 @@
+testCases\TC_005_Test.class
 pageObjects\HomePage.class
 pageObjects\MyAccountPage.class
 utilities\ExcelUtility.class
@@ -10,4 +11,5 @@ pageObjects\BasePage.class
 testCases\TC003_LoginDDT.class
 utilities\ExtentReportManager.class
 utilities\DataProviders.class
+pageObjects\SearchPage.class
 testCases\TC_004_Search.class
