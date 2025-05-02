@@ -22,6 +22,10 @@
 					  <suiteXmlFiles>
 						  <suiteXmlFile>master.xml</suiteXmlFile>
 					  </suiteXmlFiles>
+					  <systemPropertyVariables>
+					    <browser>${browser } </browser>
+					  </systemPropertyVariables>
+					  
 				  </configuration>
        		 </plugin>
 			 
